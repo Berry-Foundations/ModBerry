@@ -1,0 +1,4 @@
+# ModBot
+
+import better-profanity
+
